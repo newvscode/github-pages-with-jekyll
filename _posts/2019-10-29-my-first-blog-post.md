@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "HELLO"
+date: 2019-10-29
 ---
